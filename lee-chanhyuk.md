@@ -2,8 +2,8 @@
 Title: Symphony No. 6 in B minor 'Pathétique', Op. 74
 Year: 1893
 Genre: Symphony
-Disease: Depression
-ICD: 
+Disease: Depressive episode
+ICD: F32
 ---
 
 # Symphony No. 6 in B minor 'Pathétique', Op. 74
