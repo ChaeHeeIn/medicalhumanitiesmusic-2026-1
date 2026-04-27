@@ -2,8 +2,8 @@
 Title: Notre Dame de Paris
 Year: 1998
 Genre: Musical
-Disease: Hunchback, One-eyed, Lame
-ICD: M40.2, H54.4, R26.2
+Disease: Hunchback, One-eyed, Lame, Hearing loss
+ICD: FA70, 9D90.6, MB44, AB37
 ---
 
 # Notre Dame de Paris
