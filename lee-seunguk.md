@@ -3,7 +3,7 @@ Title: The King's Speech
 Year: 2010
 Genre: Film
 Disease: Developmental speech fluency disorder
-ICD: 6A50
+ICD: 6A01.1
 ---
 # The King's Speech
 
