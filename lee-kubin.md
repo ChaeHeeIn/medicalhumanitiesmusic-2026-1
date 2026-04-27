@@ -2,8 +2,8 @@
 Title: Whiplash
 Year: 2014
 Genre: Film
-Disease: PTSD, Overuse Syndrome, Maltreatment Syndrome
-ICD: 6B40(PTSD), M70.8(Overuse syndrom), T74.3(maltreatment syndrome)
+Disease: Maltreatment Syndrome
+ICD: T74.3
 ---
 
 # Whiplash
