@@ -3,7 +3,7 @@ Title: Miracle in Cell No.7
 Year: 2013
 Genre: Film
 Disease: Intellectual Disability
-ICD: 
+ICD: F72.0
 ---
 
 # Miracle in Cell No.7 (2013)
