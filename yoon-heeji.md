@@ -2,8 +2,8 @@
 Title: To the Moon
 Year: 2011
 Genre: Game
-Disease: Autism Spectrum Disorder (Asperger’s syndrome), 
-ICD: F84.5, 
+Disease: Autism Spectrum Disorder (Asperger’s syndrome), Other Amnesia
+ICD: F84.5, R41.3
 ---
 
 # To the moon
