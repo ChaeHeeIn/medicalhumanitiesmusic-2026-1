@@ -8,7 +8,7 @@ ICD: ICD-11
 
 # joker
 
-In *Joker, music does not simply explain the protagonist’s mental illness, but allows the audience to experience it from within. In the “Bathroom Dance” scene, the repetitive and slow cello melody reveals Arthur’s unstable mind and collapsing identity. As the music becomes heavier, it suggests that his suffering is intensified by social isolation, allowing viewers to sensorially feel his transformation and pain.
+In *Joker*, music does not simply explain the protagonist’s mental illness, but allows the audience to experience it from within. In the “Bathroom Dance” scene, the repetitive and slow cello melody reveals Arthur’s unstable mind and collapsing identity. As the music becomes heavier, it suggests that his suffering is intensified by social isolation, allowing viewers to sensorially feel his transformation and pain.
 
 # 조커
 
