@@ -3,8 +3,8 @@
 Title:Coda
 Year:2021
 Genre:Film
-Disease:.
-ICD:,
+Disease:Hearing Impairment
+ICD:H90
 ---
 
 # Coda
