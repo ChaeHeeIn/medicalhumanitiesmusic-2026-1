@@ -1,15 +1,15 @@
 ---
-Title: lucia di lammermoor
-year: 1835
+Title: Peter Grimes
+year: 1945
 Genre: opera
-Disease: mental illness
-ICD: F23
+Disease: PTSD
+ICD: 6B40
 ---
 
-# lucia di lammermoor
+# Peter Grimes
 
-*Lucia di Lammermoor* is a three-act opera composed by Italian composer Gaetano Donizetti (1797–1848), premiered at the Teatro San Carlo in Naples in 1835. Based on Walter Scott’s novel The Bride of Lammermoor (1819), the opera tells the story of Lucia, who falls in love with a man considered an enemy of her family, is forced into an arranged marriage by her brother, murders her bridegroom on their wedding night, and ultimately dies in a state of mental derangement after appearing before the wedding guests in a blood-stained dress. Donizetti depicts Lucia’s psychological breakdown with remarkable musical precision, particularly in the Mad Scene of Act III, “Il dolce suono,” where extreme high-register coloratura, unstable rhythms, and the ethereal timbre of the glass harmonica combine to express a state in which reality and hallucination become indistinguishable.
+*Peter Grimes* is an opera by British composer Benjamin Britten (1913–1976), premiered at the Sadler's Wells Theatre in London in 1945. Inspired by George Crabbe's poem The Borough (1810), the work portrays the gradual mental breakdown of Peter Grimes, a fisherman and social outcast in a 19th-century English coastal village, who is increasingly consumed by the suspicion and collective persecution of the community around him. Rather than depicting Grimes's psychological collapse directly, Britten channels it through the shifting seascapes of the "Four Sea Interludes," where the sounds of storms, fog, and calm waves intertwine with Grimes's inner state, creating an effect in which nature and the human psyche become one. It is precisely this indirect approach — projecting mental suffering onto the external environment — that makes the depiction of his anguish all the more compelling.
 
-# 람메르무어의 루치아
+# 피터그라임스
 
-람메르무어의 루치아는 이탈리아 작곡가 가에타노 도니체티(1797–1848)가 작곡한 3막의 오페라로, 1835년 나폴리 산 카를로 극장에서 초연되었다. 월터 스콧의 소설 The Bride of Lammermoor(1819)를 원작으로 하며, 가문의 원수와 사랑에 빠진 루치아가 오빠의 강요로 강제 결혼을 하게 되고, 결혼 첫날 밤 신랑을 살해한 뒤 피 묻은 드레스 차림으로 하객들 앞에 나타나 정신착란 상태에서 노래하다 숨지는 이야기를 담는다. 도니체티는 루치아의 정신 붕괴를 음악적으로 섬세하게 묘사하며, 특히 3막의 광기의 아리아 “Il dolce suono”에서는 극도로 높은 음역의 콜로라투라와 불안정한 리듬, 그리고 글라스 하모니카의 몽환적인 음색을 통해 현실과 환상이 뒤섞인 상태를 표현한다.
+피터 그라임스는 영국 작곡가 벤저민 브리튼(1913–1976)의 오페라로, 1945년 런던 새들러스 웰스 극장에서 초연되었다. 조지 크래브의 시 The Borough(1810)에서 영감을 받은 이 작품은, 19세기 영국 해안 마을을 배경으로 사회적 이방인인 어부 그라임스가 마을 공동체의 의심과 집단적 박해 속에서 점점 정신적으로 무너져 가는 과정을 그린다. 브리튼은 그라임스의 정신적 붕괴를 직접적으로 묘사하는 대신 "Four Sea Interludes"를 통해 변화하는 바다의 음향에 투영하는데, 폭풍우와 안개, 잔잔한 파도 등이 그라임스의 심리 상태와 맞물리며 자연과 인간의 내면이 동일시되는 효과를 만들어낸다. 정신적 고통을 외부 환경에 간접적으로 투영하는 이 방식이 오히려 그 고통의 깊이를 더 설득력 있게 전달한다는 점에서 인상적이다.
