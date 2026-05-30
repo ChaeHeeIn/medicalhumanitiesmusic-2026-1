@@ -20,7 +20,7 @@ Through this musical expression, the audience does not simply observe an individ
 
 Another interpretation of the film’s music can be found in the analysis of ["Arrival of the Birds"](choi-mihyeon.md), which may be helpful for further reference.
 
-<img src="./ha-yubin.PNG" alt="Abstract Image of Deterioration" style="width:37%;" />
+<img src="./ha-yubin.png" alt="Abstract Image of Deterioration" style="width:37%;" />
 
 # 사랑에 대한 모든것 
 
