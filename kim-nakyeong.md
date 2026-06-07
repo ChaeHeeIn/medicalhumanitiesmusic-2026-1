@@ -10,6 +10,8 @@ Composer: Aaron Zigman
 Type: Romance
 ---
 
+[치매와 관련된 우울증에 관한 작품](baik-jonghyeok.md)
+
 # The Notebook
 
 *The Notebook* is a story about Noah, from a poor family, and Allie, from a wealthy family, who fall in love but are separated due to their different backgrounds. Years later, they reunite and choose each other, building a life together. However, in her later years, Allie develops dementia and begins to lose her memories. Noah reads her the story of their love every day, hoping to help her remember. The scene where Noah reads to Allie is particularly memorable — at first, Allie looks at him as if he were a stranger, but as the story continues, her expression slowly changes and she says, "I think I know you," capturing the depth of their love and devotion.
