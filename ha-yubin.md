@@ -24,6 +24,22 @@ Ultimately, *Domestic Pressures* sonically illustrates how illness transforms no
 
 Another interpretation of the film’s music can be found in the analysis of ["Arrival of the Birds"](choi-mihyeon.md), which may be helpful for further reference.
 
+Based on my Future Question—"How might the widespread adoption of adaptive musical instruments tailored to the unique characteristics of individual bodies dismantle the physical discipline of the ‘normal playing posture’ established since the nineteenth century, and to what extent could it expand the boundaries of musical expression?"—and by connecting it with the ALS case depicted in the film The Theory of Everything and related musical data, I arrived at the following conclusion:
+
+“The convergence of technology and music can break standardized bodily norms and serve as a medium for preserving human individuality and dignity.”
+
+Just as nineteenth-century orthopedics attempted to forcibly straighten the “crooked tree,” modern medicine and society still risk evaluating patients and people with disabilities according to standardized norms, viewing their bodies primarily through the lens of disease and deficiency. In contrast, the musical piece “Domestic Pressures” from The Theory of Everything enables audiences to move beyond passive observation and deeply experience the process of suffering. To portray the growing tension of life gradually disrupted by ALS, the music begins with a bright and gentle atmosphere and slowly transitions into more bitter harmonies within a 3/4 waltz rhythm. These musical elements effectively convey the subjective experience of illness and the emotional struggles faced by Stephen Hawking and his family, forming an auditory representation of an illness narrative.
+
+In this way, music allows audiences to become not merely observers but “narrative listeners” who attentively engage with and empathize with the suffering of others. Listening closely to these melodies and seeking to understand the patient’s lived experience also reveals the philosophical necessity of the adaptive instrument technologies proposed in this portfolio. Traditionally, musicians have been expected to adapt their bodies to standardized instruments. However, Stephen Hawking’s ability to continue communicating with the world through a specialized computer interface that detected subtle cheek movements demonstrates a fundamental paradigm shift: technology should adapt to the unique characteristics of the individual, not the other way around.
+
+Ultimately, just as Hawking’s assistive communication technology empowered him to express himself despite severe physical limitations, future adaptive instruments utilizing technologies such as electromyography (EMG) sensors may challenge and transform conventional assumptions about “normal” bodies and “proper” playing postures. Through this process, we can realize the principles of disability aesthetics, recognizing that the sounds produced by bodies that differ from the norm are inherently meaningful and beautiful.
+
+This reflection leads us to an even broader question:
+
+“In future digital healthcare environments, when adaptive technologies compensate for patients’ physical limitations, what ethical principles should guide their development so that they function not merely as tools of normalization and control, but as empathetic mediators that support the expression of each individual’s unique identity?”
+
+By engaging with this question, we can move toward a more compassionate healthcare community—one in which every person is welcomed, respected, and valued for who they are, regardless of their physical condition.
+
 <img src="./ha-yubin.png" alt="Abstract Image of Deterioration" style="width:77%;" />
 
 # Music I Would Like to Be Played at My Funeral
@@ -47,6 +63,20 @@ I chose YUNMARCH's [Color It](https://youtu.be/5XnKq8UykXw?si=rnuPZwBgKdIescZR) 
 결국 *Domestic Pressures*는 질병이 개인의 신체를 넘어 가족 관계와 삶 전반을 어떻게 변화시키는지를 청각적으로 드러낸다. 이를 통해 관객은 단순히 한 개인의 질병을 보는 것이 아니라, 질병이 한 사람의 삶과 가족 관계 전반에 미치는 영향을 보다 현실적이고 공감적으로 이해하게 된다. 이러한 점에서 이 음악은 영화의 핵심 주제를 효과적으로 전달하며 의료인문학적 관점에서도 의미 있는 통찰을 제공한다.
 
 이 영화의 다른 음악 해석은 ['Arrival of the Birds'에 대한 해석](choi-mihyeon.md)을 참조하면 도움이 될 것이다.
+
+나의 Future Question인 "개별 신체의 고유한 특성에 맞춘 '적응형 악기'의 보급은 19세기부터 고착된 '정상적 연주 자세'라는 신체적 규율을 어떻게 해체하고, 음악적 표현의 경계를 어디까지 확장할 수 있는가?"와 영화 *사랑에 대한 모든 것* 속 루게릭병(ALS) 사례 및 음악 데이터를 엮어봤을 때, 나는 이렇게 답할 수 있다. 
+
+"기술과 음악의 결합은 표준화된 신체적 규율을 깨뜨리고, 인간의 고유성과 존엄성을 지키는 매개체가 된다." 
+
+19세기 정형외과학이 '굽은 나무'를 강제로 펴려고 했던 것처럼, 현대 의학이나 우리 사회는 환자나 장애인의 신체를 표준적인 기준에 억지로 맞춰 평가하거나 결함(Disease)으로만 바라볼 위험이 크다. 반면, 내가 선정한 영화 *사랑에 대한 모든 것*의 음악 *Domestic Pressures*는 단순한 관찰을 넘어 고통의 과정을 깊이 있게 체험할 수 있게 해준다. 루게릭병으로 인해 점차 근육이 약화되고 일상이 무너져가는 긴장감을 표현하기 위해, 밝고 부드러운 분위기로 시작하여 점차 비터(bitter)한 화성으로 변화하는 3/4박자 왈츠 선율이 모든 것들이 호킹과 그의 가족이 겪는 주관적 고통의 과정(Illness Narrative)을 청각적으로 잘 담고 있다. 
+
+이처럼 음악은 관객이 단순한 관찰자가 아니라 타인의 고통을 함께 경청하는 '서사적 청취자'로 성장할 수 있도록 발판을 만들어준다. 그리고 이 선율에 귀를 기울이며 환자의 삶을 이해하는 과정은, 포트폴리오에서 제시한 미래의 '적응형 악기' 기술이 왜 필요한지 그 철학적 당위성을 깨닫게 해준다. 지금까지는 연주자가 표준 악기에 몸을 억지로 맞춰야 했지만, 스티븐 호킹이 뺨의 미세한 신호를 감지하는 특수 컴퓨터 인터페이스를 통해 세상과 소통하며 위대한 성취를 이어갔던 데이터는 "기술이 거꾸로 사람의 고유한 몸에 맞춰야 한다"는 패러다임의 전환을 보여주기 때문이다. 
+
+결국 호킹의 의사소통 기술이 그러했듯, 미래의 근전도 센서 기반 적응형 악기 역시 '정상적인 신체와 자세'라는 고정관념을 전복할 것이다. 이러한 과정을 통해 우리는 '조금 다른 몸'이 만들어내는 소리도 그 자체로 충분히 아름답다는 '장애미학'을 실현할 수 있으며, 나아가 한 단계 더 확장된 새로운 질문에 도달하게 된다. 
+
+즉, "미래 디지털 헬스케어 환경에서 적응형 기술이 환자의 신체 제약을 보완할 때, 기술이 단순히 환자를 정상 기준에 맞추는 통제 도구에 머무는 것이 아니라 고유한 정체성을 발현하도록 돕는 공감적 매개체로 기능하게 하려면 우리는 어떤 윤리적 기준을 세워야 하는가?"라는 질문이다. 
+
+이 성찰을 통해 우리는 신체적 조건과 상관없이 누구나 고유한 모습 그대로 환대받고 존중받는 따뜻한 간호적 공동체로 나아갈 수 있을 것이다.
 
 # 자신의 장례식에서 연주되길 희망하는 음악 
 
