@@ -36,3 +36,11 @@ The reason I chose the children's version over the original by The Beatles is th
 # 나의 장례식 음악
 
 나의 장례식에서 연주되길 원하는 음악은 비틀즈의 I will 이다. 정확하게는 *Love Affair* 영화 속에 아이들이 부른 버전의 I will이다. 사실 이 노래는 어렸을 때 가사와 멜로디가 마음에 들어서 제일 처음 가사를 외운 팝송이다. 'Will I wait a lonely life time? If you want me to I will.' 이 가사가 꼭 낭만적인 소설 속 이야기 같아서 마음에 들었다. 나중에 사랑하는 사람들과 같이 부르고 싶다. 나의 장례식 때 내가 사랑했던 사람들이 와서 이 노래를 듣고 나와 함께했던 추억들을 떠올려 주었으면 좋겠다. 원곡자인 비틀즈가 아닌 아이들이 부른 버전을 선택한 이유는 비틀즈는 꼭 사랑하는 연인한테 불러주는 것 같지만 아이들은 꼭 천사들이 세상 사람들한테 불러주는 것 같아 더 마음에 든다. [노래](https://www.youtube.com/watch?v=4WOSnzIGNmY)를 감상해보자. 
+
+# How Does Sound Become Community?
+
+That David Helfgott's performance could function not merely as a display of technical mastery but as "the sum of everything he had never been able to say" was possible precisely because that sound was received within a relational context — one shared between performer and audience. The space of the stage, the bodies filling the seats, the collective tension that could only arise within that room: these were the conditions that made Rachmaninoff's Piano Concerto No. 3 something beyond mere sound. What happens, then, when performance migrates to the other side of a screen, and the roar of a crowd is replaced by artificially engineered noise? R. Murray Schafer's concept of the soundmark presupposes that communal listening experience rests on three conditions: the collectivity of sound production, spatial resonance, and bodily co-presence. Digitally reconstructed soundscapes place all three under pressure simultaneously — and whether this pressure signals the impossibility of communal listening, or rather the emergence of a new form of collective auditory experience that bypasses physical co-presence, remains a central question for understanding how community itself is being reconstituted in the post-pandemic era.
+
+# 소리는 어떻게 공동체가 되는가
+
+데이비드 헬프갓의 연주가 단순한 기교의 전시가 아니라 "평생 말하지 못한 것들의 총체"로 기능할 수 있었던 것은, 그 소리가 연주자와 청중 사이의 관계적 맥락 속에서 수용되었기 때문이다. 무대라는 공간, 객석을 채운 신체들, 그리고 그 공간에서만 발생하는 집합적 긴장 — 이것이 라흐마니노프 협주곡 3번을 단순한 음향 이상의 것으로 만든 조건이었다. 그렇다면 팬데믹 이후 공연이 스크린 너머로 이전되고, 관중의 함성이 인공 음향으로 대체될 때, 이 조건은 어떻게 달라지는가. R. Murray Schafer의 사운드마크 개념은 공동체적 청취 경험이 발생의 공동성, 공간적 공명, 신체적 공존이라는 세 조건 위에 성립한다고 전제한다. 디지털 기술로 재구성된 소리풍경은 이 조건들을 동시에 압박하며, 그것이 공동체적 청취의 불가능성을 나타내는지 아니면 공간적 공존을 우회하는 새로운 집합적 청취 형식의 출현을 나타내는지는 포스트팬데믹 시대의 공동체 경험을 이해하기 위한 핵심 질문으로 남는다.
