@@ -29,6 +29,14 @@ The true meaning of this solidarity is dramatically proven during the gala conce
 In this regard, it would be helpful to refer to [a text that describes how music portrays disability within the same film](lee-chanhyeok.md) as well as [a text illustrating how music functions as a 'second spoken language' through which Jin-tae, who struggles with verbal communication, can converse with others](kim-jeongwoo.md).
 <img src="./kim-hyeonseong.jpg" alt="The Richness of the Inner World in Autism Spectrum Disorder" style="width:95%;" />
 
+# The Connection Between the Database and the HYQ Portfolio
+
+Rather than dismissing the 'closed world' of the autism spectrum as inner poverty or isolation, this scene—which illustrates how the closed world of autism actually serves as a conduit to connect most purely with the essence of music, free from external prejudices—provides profound insight into the first question of the QBL activity: "How are suffering and disability expressed and sublimated through music?" Physical pain and the sense of disconnection inherently possess qualities that are difficult to fully objectify or express through language. However, when stylized through the aesthetic form of piano performance, suffering is finally conquered and can be completely sublimated into an artistic language.
+
+This aesthetic sublimation naturally leads to the second question of the QBL activity: "How is alternative communication beyond the limits of spoken language possible?" Although Jin-tae struggles with everyday communication, he demonstrates the ability to fully converse and commune with others through music as a "second spoken language." This departs from the non-disabled-centric perspective that regards only spoken language as the standard of normality, suggesting instead the possibility of an alternative communication system in which one actively forms social relationships by acquiring music as an independent and autonomous language.
+
+Furthermore, the insight that this self-acquired alternative language fosters relationships with others—coupled with the way the work uses music to elevate illness and disability into an individual's unique inner depth and an identity with independent normativity, rather than depicting them as objects of pity or obstacles to overcome—serves as a practical example for the third question of the QBL activity: "How does the illness narrative create social solidarity and harmony?" Ultimately, this is a manifestation of the medical humanities perspective, which seeks to view human beings holistically while critiquing the modern medical gaze that traditionally defined patients merely as biological defects or subjects of treatment.
+
 # The music I wish to be played at my funeral and the reasons why
 
 The music I wish to have played at my funeral is [the 2nd movement (Largo) of Antonín Dvořák's Symphony No. 9, "From the New World."](https://www.youtube.com/watch?v=5saWHL6E5QE) The attached link is actually a video of a performance of this movement by the orchestra I was a part of during my elementary school years. The main theme of this piece evokes such profound nostalgia and tranquility in the listener that it was later adapted into the song "Going Home." I chose this music because, if played at a funeral, it emphasizes that death is not a cold, fearful severance or eternal extinction, but rather a peaceful process of returning to one's coziest, warmest, and truest home after completing the arduous journey of life.
@@ -58,6 +66,14 @@ Beyond the analytical interpretation of the piece, my personal reasons for choos
 이 연대의 진정한 의미는 후반부 갈라 콘서트 연주 장면에서 극적으로 증명되는데, 일상적인 소통조차 버거워하며 자신만의 세계에 갇혀 있던 진태가 무대 위에서만큼은 오케스트라의 반주와 지휘자의 손끝에 자신의 템포를 맞추며 타인과 완벽한 하모니를 만들어낸다. 결국 이 경이로운 하모니는 12주차 '질병과 음악에는 서사가 있다'에서 다룬 질환서사의 완벽한 실현이라 볼 수 있다. 자신의 아픔과 삶을 일상적 언어로 서술하기 어려웠던 진태가 협주곡이라는 거대한 서사 구조에 올라타 수많은 타인과 교감하며 자신의 서사를 세상에 들려주는 것이기 때문이다. 즉, 음악이라는 보편적인 언어는 닫힌 세계에 있던 진태가 스스로 세상 밖으로 나와 수많은 타인과 주체적으로 호흡하고 교감할 수 있게 만드는 가장 경이롭고 아름다운 연대의 매개체가 된다.
 
 이와 관련해서 [같은 영화에 대해서 음악이 작품속 장애를 묘사하는 방식을 적은 글](lee-chanhyeok.md)과 [언어적 소통이 서툰 진태에게 음악이라는 ‘제2의 음성 언어‘를 통해 타인과 대화할 수 있음을 작성한 글](kim-jeongwoo.md)을 참조하면 도움이 될 것 같다.
+
+# DB와 HYQ Portfolio의 연결
+
+자폐 스펙트럼이라는 '닫힌 세계'를 내면의 빈곤이나 단절로 치부하지 않고, 자폐라는 닫힌 세계가 오히려 외부의 편견 없이 음악의 본질과 가장 순수하게 맞닿는 통로가 됨을 보여주는 장면은 QBL활동에서의 첫 번째 질문과 관련된 '고통과 장애가 음악을 통해 어떻게 표현되고 승화되는가'에 대한 깊이 있는 통찰을 제공한다. 육체적 고통과 단절의 감각은 본질적으로 언어로 온전히 대상화되거나 표현되기 힘든 속성을 지니지만, 피아노 연주라는 미학적 형태를 빌려 양식화될 때 비로소 고통은 정복되고 온전한 예술적 언어로 승화될 수 있기 때문이다. 
+
+이러한 미학적 승화는 QBL활동의 두 번째 질문과 관련된 '음성 언어적 한계를 넘어선 대안적 소통이 어떻게 가능한가'라는 질문으로 자연스럽게 이어진다. 비록 진태는 일상적인 소통에는 서툴지만, 음악이라는 '제2의 음성 언어'를 통해 타인과 완전하게 대화하고 교감할 수 있음을 보여준다. 이는 오직 음성 언어만을 정상성의 기준으로 삼는 비장애인 중심의 시선에서 벗어나, 음악을 자신만의 독자적이고 주체적인 언어로 획득함으로써 사회적 관계성을 능동적으로 형성해 나가는 대안적 소통 체계의 가능성을 시사한다.
+
+나아가 스스로 획득한 이 대안적 언어가 타인과의 관계를 형성한다는 통찰과 음악을 매개로 질병과 장애를 동정이나 극복의 대상이 아닌, 한 인간의 고유한 심연이자 독자적인 규범성을 지닌 정체성으로 격상시켜 묘사하는 점은, QBL활동의 세 번째 질문과 관련된 '질환서사는 어떻게 사회적 연대와 하모니를 만들어내는가?'라는 질문의 실천 사례이기도 하며, 환자를 단순한 생물학적 결함이나 치료의 대상으로만 규정하던 근대 의학적 시선을 비판하고, 인간을 총체적으로 바라보고자 하는 의료인문학적 시선의 발현이다.
 
 # 장례식에서 연주되길 희망하는 음악과 그 이유
 
