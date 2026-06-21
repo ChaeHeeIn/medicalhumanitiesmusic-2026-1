@@ -6,7 +6,7 @@ Disease: schizophrenia
 ICD-11: 6A20
 ---
 
-# the soloist
+# The soloist
 
 The movie Soloist tells the story of Los Angeles Times reporter Steve Lopez and Nathaniel Ayres, a genius musician with schizophrenia. Lopez runs into Nathaniel playing on the street and learns that he was an outstanding musician from the Juilliard College of Music, but he was homeless due to schizophrenia. After that, Lopez tries to help by informing his life through a series of articles and providing a shelter and residential space. However, Nathaniel does not change easily, and Lopez eventually realizes that he has tried to change Nathaniel to the standard of "normal life." This reminds us of the issues of normality and normality dealt with in the class. The movie shows that it is more important to understand a person's life than to simply view a disease or disability as an object to be cured or corrected.
 
