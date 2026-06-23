@@ -1,9 +1,9 @@
 ---
 Title: Cavatina
-Composer: Ludwig van Beethoven
+Composer: Ludwig Van Beethoven
 Year: 1826
 Genre: Music
-Disease: angina pectoris
+Disease: Angina pectoris
 ICD: BA40
 ---
 
@@ -13,7 +13,7 @@ The fifth movement, "**Cavatina**(1826)," of Beethoven's String Quartet No. 13 i
 
 Furthermore, this analysis aligns with the questions explored in the 'HYQ Portfolio Questions.' In particular, the 'Future Question' I ultimately derived—namely, "If AI perfectly mimics human emotions, disabilities, and limitations to create a work of art that reflects a suffering more human than that of humans, how can its value be defined through the three lenses of the audience's experience, the creator's perspective, and the social context?"—allows for a multifaceted reexamination of the value of this music, which is evaluated as implicitly reflecting the suffering of Beethoven’s later years. In other words, by prompting us to reconsider the audience's deep moved response and evaluation rooted in his actual experience of pain, it raises a fundamental question of whether art that merely mimics suffering through AI can truly achieve authentic artistic value.
 
-<img src="./in-chaehui.png" alt="abstract image of Cavatina" style="width:55%;" />
+<img src="./in-chaehui.png" alt="abstract image of Cavatina" style="width:65%;" />
 
 # 현악 사중주 13번 Bb장조, Op. 130 제 5악장 [카바티나](https://youtu.be/8VHldgzW60I?si=ChUx_AFvVh2INJez) 
 
@@ -23,8 +23,8 @@ Furthermore, this analysis aligns with the questions explored in the 'HYQ Portfo
 
 # Music I hope to play at my funeral
 
-The music I want to play at my funeral is Yun Shim-deok's [Praise of Death(1926) ](https://youtu.be/reLhtkTfaY4?list=RDreLhtkTfaY4). "Praise of Death" is also the first popular song in Korea and has historical symbolism. The tragic melody, arranged with the motif of Iosif Ivanovic's "The Ripples of the Danube River", reveals the emptiness and beauty of death at the same time, making listeners immerse themselves in deep sadness and reflection. yrics such as, "O life running through the vast wilderness, what is it that you are searching for?" lament the futility of life and sing of the liberation found in death. This will stand in stark contrast to my own life, which I lived to the fullest, accumulating numerous achievements. Consequently, I believe that playing this song will serve to provoke deep contemplation on death and pose profound philosophical questions to those who gather at my funeral.
+The music I want to play at my funeral is Yun Shim-deok's [Praise of Death(1926) ](https://youtu.be/reLhtkTfaY4?list=RDreLhtkTfaY4). "Praise of Death" is also the first popular song in Korea and has historical symbolism. The tragic melody, arranged with the motif of Iosif Ivanovic's ["The Ripples of the Danube River"](https://youtu.be/DUD0NaJDrys), reveals the emptiness and beauty of death at the same time, making listeners immerse themselves in deep sadness and reflection. yrics such as, "O life running through the vast wilderness, what is it that you are searching for?" lament the futility of life and sing of the liberation found in death. This will stand in stark contrast to my own life, which I lived to the fullest, accumulating numerous achievements. Consequently, I believe that playing this song will serve to provoke deep contemplation on death and pose profound philosophical questions to those who gather at my funeral.
 
 # 나의 장례식에서 연주되길 희망하는 음악
 
-나의 장례식에서 연주하고 싶은 음악은 윤심덕의 [「사의 찬미」(1926)](https://youtu.be/reLhtkTfaY4?list=RDreLhtkTfaY4)이다.「사의 찬미」는 한국 최초의 대중가요로서 역사적 상징성을 지니고 있는 곡이기도 하다. 이오시프 이바노비치의 「다뉴브 강의 잔물결」의 선율을 모티브로 편곡한 비극적 선율은 죽음의 허무와 아름다움을 동시에 드러내어 청자들을 깊은 슬픔과 성찰에 잠기게 만든다. "광막한 광야를 달리는 인생아, 너는 무엇을 찾으러 가느냐" 와 같은 노래의 가사는 삶의 덧없음과 죽음의 해방을 노래하는데, 이는 삶에 충실하여 많은 성과를 달성한 나의 생과 대비될 것이다. 따라서 곡의 재생은 장례식에 찾아온 사람들에게 죽음에 대한 고찰과 철학적 질문을 던지는 효과가 있을 것이라 생각한다.
+나의 장례식에서 연주하고 싶은 음악은 윤심덕의 [「사의 찬미」(1926)](https://youtu.be/reLhtkTfaY4?list=RDreLhtkTfaY4)이다.「사의 찬미」는 한국 최초의 대중가요로서 역사적 상징성을 지니고 있는 곡이기도 하다. 이오시프 이바노비치의 [「다뉴브 강의 잔물결」](https://youtu.be/DUD0NaJDrys)의 선율을 모티브로 편곡한 비극적 선율은 죽음의 허무와 아름다움을 동시에 드러내어 청자들을 깊은 슬픔과 성찰에 잠기게 만든다. "광막한 광야를 달리는 인생아, 너는 무엇을 찾으러 가느냐" 와 같은 노래의 가사는 삶의 덧없음과 죽음의 해방을 노래하는데, 이는 삶에 충실하여 많은 성과를 달성한 나의 생과 대비될 것이다. 따라서 곡의 재생은 장례식에 찾아온 사람들에게 죽음에 대한 고찰과 철학적 질문을 던지는 효과가 있을 것이라 생각한다.
